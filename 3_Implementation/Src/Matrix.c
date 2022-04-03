@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#include "matrix_operations.h"
+#include "matrix.h"
 
 
 /**
